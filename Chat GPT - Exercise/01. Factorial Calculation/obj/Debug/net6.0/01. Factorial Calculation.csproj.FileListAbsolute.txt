@@ -1,0 +1,14 @@
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\bin\Debug\net6.0\01. Factorial Calculation.exe
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\bin\Debug\net6.0\01. Factorial Calculation.deps.json
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\bin\Debug\net6.0\01. Factorial Calculation.runtimeconfig.json
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\bin\Debug\net6.0\01. Factorial Calculation.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\bin\Debug\net6.0\01. Factorial Calculation.pdb
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\01. Factorial Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\01. Factorial Calculation.AssemblyInfoInputs.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\01. Factorial Calculation.AssemblyInfo.cs
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\01. Factorial Calculation.csproj.CoreCompileInputs.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\01. Factorial Calculation.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\refint\01. Factorial Calculation.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\01. Factorial Calculation.pdb
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\01. Factorial Calculation.genruntimeconfig.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\01. Factorial Calculation\obj\Debug\net6.0\ref\01. Factorial Calculation.dll

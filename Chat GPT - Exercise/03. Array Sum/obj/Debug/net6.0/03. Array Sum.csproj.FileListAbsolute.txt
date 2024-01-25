@@ -1,0 +1,14 @@
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\bin\Debug\net6.0\03. Array Sum.exe
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\bin\Debug\net6.0\03. Array Sum.deps.json
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\bin\Debug\net6.0\03. Array Sum.runtimeconfig.json
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\bin\Debug\net6.0\03. Array Sum.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\bin\Debug\net6.0\03. Array Sum.pdb
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\03. Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\03. Array Sum.AssemblyInfoInputs.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\03. Array Sum.AssemblyInfo.cs
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\03. Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\03. Array Sum.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\refint\03. Array Sum.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\03. Array Sum.pdb
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\03. Array Sum.genruntimeconfig.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\03. Array Sum\obj\Debug\net6.0\ref\03. Array Sum.dll

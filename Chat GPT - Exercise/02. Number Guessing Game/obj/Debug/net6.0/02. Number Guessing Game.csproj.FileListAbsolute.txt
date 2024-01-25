@@ -1,0 +1,14 @@
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\bin\Debug\net6.0\02. Number Guessing Game.exe
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\bin\Debug\net6.0\02. Number Guessing Game.deps.json
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\bin\Debug\net6.0\02. Number Guessing Game.runtimeconfig.json
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\bin\Debug\net6.0\02. Number Guessing Game.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\bin\Debug\net6.0\02. Number Guessing Game.pdb
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\02. Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\02. Number Guessing Game.AssemblyInfoInputs.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\02. Number Guessing Game.AssemblyInfo.cs
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\02. Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\02. Number Guessing Game.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\refint\02. Number Guessing Game.dll
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\02. Number Guessing Game.pdb
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\02. Number Guessing Game.genruntimeconfig.cache
+C:\Users\vksto\OneDrive\Documents\GitHub\My workouts\Chat GPT - Exercise\02. Number Guessing Game\obj\Debug\net6.0\ref\02. Number Guessing Game.dll
