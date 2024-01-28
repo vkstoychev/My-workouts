@@ -1,0 +1,14 @@
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.exe
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.deps.json
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.runtimeconfig.json
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.dll
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.pdb
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.AssemblyInfoInputs.cache
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.AssemblyInfo.cs
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.dll
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\refint\03. Memory Game.dll
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.pdb
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.genruntimeconfig.cache
+C:\Users\vksto\OneDrive\Desktop\CS Projects\January-2024\C# Fundamentals\Fundamentals-Exams\01. Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\ref\03. Memory Game.dll
